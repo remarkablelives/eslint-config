@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-remarkable-lives",
+  "version": "0.1.0",
+  "description": "Remarkable Lives - ESLint Shareable Config",
+  "keywords": [
+    "Remarkable Lives",
+    "eslint",
+    "eslintconfig",
+    "lint",
+    "linter"
+  ],
+  "bugs": {
+    "url": "https://github.com/remarkablelives/eslint-config-remarkable-lives/issues"
+  },
+  "homepage": "https://github.com/remarkablelives/eslint-config-remarkable-lives",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remarkablelives/eslint-config-remarkable-lives"
+  },
+  "author": "Warren Amphlett <warren@remarkablelives.co.uk>",
+  "license": "MIT"
+}
