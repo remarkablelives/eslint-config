@@ -13,7 +13,7 @@ yarn add eslint-config-remarkable-lives
 To use the Remarkable Lives shareable config, first run this:
 
 ```bash
-yarn add -D eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
+yarn add -D eslint eslint-config-remarkable-lives eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard
 ```
 
 Then, add this to your .eslintrc file:
