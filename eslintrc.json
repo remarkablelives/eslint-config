@@ -17,6 +17,7 @@
     "quotes": ["error", "single"],
     "semi": ["error", "never"],
     "object-curly-spacing": ["error", "always"],
-    "jsx-quotes": ["error", "prefer-single"]
+    "jsx-quotes": ["error", "prefer-single"],
+    "eol-last": ["error", "always"]
   }
 }
