@@ -20,7 +20,7 @@
       "SwitchCase": 1
     }],
     "linebreak-style": ["error", "unix"],
-    "quotes": ["error", "single"],
+    "quotes": ["error", "single", { "allowTemplateLiterals": true }],
     "semi": ["error", "never"],
     "object-curly-spacing": ["error", "always"],
     "jsx-quotes": ["error", "prefer-single"],
